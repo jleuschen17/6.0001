@@ -1,2 +1,2 @@
 
-Skipped PS, content already learned.
+Skipped PS, content already learned in previous course.
